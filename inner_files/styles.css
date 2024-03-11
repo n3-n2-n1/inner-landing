@@ -10915,6 +10915,10 @@ body {
 .orange {
   color: #FC5640;
 }
+
+.violet {
+  color: #9F89F7;
+}
 .bg-col {
     background: url(../assets/img/bg-col-2.svg);
     background-repeat: no-repeat;
