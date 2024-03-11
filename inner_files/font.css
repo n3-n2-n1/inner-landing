@@ -1,0 +1,46 @@
+/* Webfont: BaseNeue-Condensed */
+@font-face {
+    font-family: 'BaseNeueCond';
+    src: url('../assets/font/BaseNeue-Condensed.woff2') format('woff2'), /* Modern Browsers */
+         url('../assets/font/BaseNeue-Condensed.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+/* Webfont: BaseNeue-ExpandedSemiBold */@font-face {
+    font-family: 'BaseNeueSemBdExp';
+    src: url('../assets/font/BaseNeue-ExpandedSemiBold.woff2') format('woff2'), /* Modern Browsers */
+         url('../assets/font/BaseNeue-ExpandedSemiBold.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: BaseNeue-CondensedExtraLight */@font-face {
+    font-family: 'BaseNeueExtLtCond';
+    src: url('../assets/font/BaseNeue-CondensedExtraLight.woff2') format('woff2'), /* Modern Browsers */
+         url('../assets/font/BaseNeue-CondensedExtraLight.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+/* Webfont: BaseNeue-ExpandedLight */@font-face {
+    font-family: 'BaseNeueLightExp';
+    src: url('../assets/font/BaseNeue-ExpandedLight.woff2') format('woff2'), /* Modern Browsers */
+         url('../assets/font/BaseNeue-ExpandedLight.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: BaseNeue-ExpandedMedium */@font-face {
+    font-family: 'BaseNeueMedExp';
+    src: url('../assets/font/BaseNeue-ExpandedMedium.woff2') format('woff2'), /* Modern Browsers */
+         url('../assets/font/BaseNeue-ExpandedMedium.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+
+
